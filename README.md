@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aradhya 👋
 
-<!--
-**Medilan8D/Medilan8D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate | AI/ML and Data Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I'm passionate about building impactful projects, solving algorithmic problems, and leveraging data & AI to solve real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+**Languages:** Java, Python, JavaScript, SQL, HTML, CSS, PHP
+
+**Tools & Technologies:** Git, GitHub, OpenCV, MySQL, Tableau, Power BI, Pandas, NumPy, VS Code
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- SQL
+- Data Analytics
+
+## 📌 Featured Projects based on
+-  Quantification of Emotional Skew
+-  Driver Drowsiness Detection
+-  Diabetic patients Data Analysis 
+-  Full-Stack Pinterest-like application
